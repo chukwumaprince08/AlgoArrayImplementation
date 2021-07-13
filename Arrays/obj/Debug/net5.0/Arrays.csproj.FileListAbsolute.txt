@@ -1,0 +1,16 @@
+C:\AlgoTest\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\AlgoTest\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\AlgoTest\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\AlgoTest\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\AlgoTest\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\AlgoTest\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\AlgoTest\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\AlgoTest\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlgoTest\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\AlgoTest\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\AlgoTest\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\AlgoTest\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\AlgoTest\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\AlgoTest\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\AlgoTest\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
+C:\AlgoTest\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
